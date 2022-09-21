@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "foo",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Struct.sol": "Struct"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Struct.sol": {
+			"keccak256": "0xfee8e3502a860f637e9b4fbacfe43bef9d42a0a67f682709af423f147f4fe70f",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://cae35ba9e767b0f1d4d22a27c7c4d2c23994b8023bec97869cb3b2fb23124030",
+				"dweb:/ipfs/QmWQoM31RP9dfGKSGTR4Fo2dmJvuLawCtJDyHLXA1YDmkX"
+			]
+		}
+	},
+	"version": 1
+}

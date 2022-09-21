@@ -1,0 +1,62 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "a",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "foo",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Interact.sol": "Hello"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Interact.sol": {
+			"keccak256": "0xaa815165cc16546d9b0e6ba8b33c9a1ae79658d9abff43de6e78822770f9d95b",
+			"urls": [
+				"bzz-raw://94d0023d719784fbb22832c399ca9d90cac46f4288b3d72a0e48a6c8ea1e07d4",
+				"dweb:/ipfs/QmbRaA8Nr7DXPVVgdctgeba3tjkJCwzTVHk61X3tJTAMPP"
+			]
+		}
+	},
+	"version": 1
+}
